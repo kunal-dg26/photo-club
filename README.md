@@ -1,7 +1,7 @@
 # Shutterbugs Photography Club
 
 Shutterbugs is the photography club for students on our campus. We go
-on photo walks, share tips on light, framing and editting, and hold a
+on photo walks, share tips on light, framing and editing, and hold a
 small exhibition every year. A phone camera is all you need to join.
 
 ## The club page
